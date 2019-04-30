@@ -226,7 +226,7 @@ class Rayolabs_music_king {
 	}
 
 	public function get_api_url(){
-		return "http://127.0.0.1:8000/api";
+		return "https://publicapi.org.ng/api";
 	}
 
 }
